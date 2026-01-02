@@ -1,0 +1,5 @@
+{
+  "name": "SentinelKey Ubuntu Guard",
+  "description": "A military-grade system security dashboard for Ubuntu 24.04. Manages hardware keys, disk encryption, user access control, and database security via AI-generated enforcement scripts.",
+  "requestFramePermissions": []
+}
